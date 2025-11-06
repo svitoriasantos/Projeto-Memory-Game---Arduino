@@ -1,4 +1,4 @@
-Project Game: Jogo da Memória - ARDUINO 
+Project Game: Jogo da Memória - ARDUINO
 Tecnologias utilizadas:
 •	Arduíno UNO
 •	LEDs (3)
